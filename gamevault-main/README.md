@@ -26,19 +26,19 @@ GameVault is a Game Catalog site which is the ultimate destination for exploring
 - Responsive design.
 
 ## Screenshots
-![GameVault Catalog Page](https://github.com/TylerMommsen/gamevault/assets/65496518/61801b9a-72ad-4ca8-824e-ff76521e3b07)
-![GameVault Details Page](https://github.com/TylerMommsen/gamevault/assets/65496518/2b1e3b95-3829-4955-928f-8ffc150a03cd)
+![GameVault Catalog Page](./public/307515390-61801b9a-72ad-4ca8-824e-ff76521e3b07.png)
+![GameVault Details Page](./public/307515396-2b1e3b95-3829-4955-928f-8ffc150a03cd.png)
 
 ## Development
 Follow these steps to run the project locally.
 1. Clone the repository.
   HTTPS
   ```sh
-  git clone https://github.com/TylerMommsen/gamevault.git
+  git clone https://github.com/AshutoshSingh058/gamevault.git
   ```
   SSH
   ```sh
-  git clone git@github.com:TylerMommsen/gamevault.git
+  git clone git@github.com:AshutoshSingh058/gamevault.git
   ```
 
 2. Install dependenices
